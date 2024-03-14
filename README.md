@@ -1,3 +1,7 @@
+# FORK OF Go Networking used by [tls-client-go](https://github.com/yeet-robotics/tls-client-go)
+
+----------
+
 # Go Networking
 
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/net.svg)](https://pkg.go.dev/golang.org/x/net)
